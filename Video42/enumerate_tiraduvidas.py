@@ -14,5 +14,10 @@ lista = [
 # enumerada = enumerate(lista)
 # print(list(enumerada))
 
-enumerada = list(enumerate(lista))
-print((enumerada[1][1][2]))
+# enumerada = list(enumerate(lista))
+# print((enumerada[1][1][2]))
+
+for v1 in enumerate(lista, 53):
+    valor_enumerado, minha_lista = v1
+    nome1, nome2, nome3 = minha_lista
+    print(nome1, nome3)
