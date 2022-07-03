@@ -19,7 +19,3 @@ while i < 9:
     print(i, j)
     i += 1
     j -= 1
-
-# Resposta
-for p, r in enumerate(range(10, 1, -1)):
-    print(p, r)

@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71bccb30-9577-41a6-80c8-99d78026af08" name="Changes" comment="Atualização">
-      <change afterPath="$PROJECT_DIR$/Video41/enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Video41/join.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Video41/split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video48/desafio_contadores_luiz_otavio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video51/gerando_cpf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video52/Funcoes_def_Python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Video37/exemplo_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Video37/exemplo_37.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Video38/exemplo_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Video38/exemplo_38.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Video39/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Video39/example_39.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Video40/exemplo_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Video40/exemplo_40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Video47/desafio_contadores.py" beforeDir="false" afterPath="$PROJECT_DIR$/Video47/desafio_contadores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Video48/desafio_valida_CPF.py" beforeDir="false" afterPath="$PROJECT_DIR$/Video49/desafio_valida_CPF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Video48/solucao_Luiz_Otavio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Video50/solucao_Luiz_Otavio.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +31,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Video37/exemplo_37.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Video38/exemplo_38.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Video37/for_in.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Video38/listas.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Video42/enumerate_tiraduvidas.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,26 +44,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CÓDIGOS PROGRAMAÇÃO/Python3-LuizOtavioMiranda/Video41&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/CÓDIGOS PROGRAMAÇÃO/Python3-LuizOtavioMiranda/Video47",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "ics"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\CÓDIGOS PROGRAMAÇÃO\Python3-LuizOtavioMiranda\Video41" />
+      <recent name="D:\CÓDIGOS PROGRAMAÇÃO\Python3-LuizOtavioMiranda\Video47" />
       <recent name="D:\CÓDIGOS PROGRAMAÇÃO\Python3-LuizOtavioMiranda" />
+      <recent name="D:\CÓDIGOS PROGRAMAÇÃO\Python3-LuizOtavioMiranda\Video41" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CÓDIGOS PROGRAMAÇÃO\Python3-LuizOtavioMiranda\Video50" />
+      <recent name="D:\CÓDIGOS PROGRAMAÇÃO\Python3-LuizOtavioMiranda\Video48" />
+      <recent name="D:\CÓDIGOS PROGRAMAÇÃO\Python3-LuizOtavioMiranda\Video49" />
       <recent name="D:\CÓDIGOS PROGRAMAÇÃO\Python3-LuizOtavioMiranda" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.enumerate">
-    <configuration name="enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.gerando_cpf">
+    <configuration name="desafio_contadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3-LuizOtavioMiranda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video41" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video47" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Video41/enumerate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Video47/desafio_contadores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example_39" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio_contadores_luiz_otavio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3-LuizOtavioMiranda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video39" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video48" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\CÓDIGOS PROGRAMAÇÃO\Python3-LuizOtavioMiranda\Video39\example_39.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Video48/desafio_contadores_luiz_otavio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exemplo_40" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="gerando_cpf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3-LuizOtavioMiranda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video40" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video51" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\CÓDIGOS PROGRAMAÇÃO\Python3-LuizOtavioMiranda\Video40\exemplo_40.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Video51/gerando_cpf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="solucao_Luiz_Otavio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3-LuizOtavioMiranda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video41" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Video48" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\CÓDIGOS PROGRAMAÇÃO\Python3-LuizOtavioMiranda\Video41\split.py" />
+      <option name="SCRIPT_NAME" value="D:\CÓDIGOS PROGRAMAÇÃO\Python3-LuizOtavioMiranda\Video50\solucao_Luiz_Otavio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.enumerate" />
+        <item itemvalue="Python.gerando_cpf" />
+        <item itemvalue="Python.desafio_contadores" />
+        <item itemvalue="Python.desafio_contadores_luiz_otavio" />
+        <item itemvalue="Python.solucao_Luiz_Otavio" />
         <item itemvalue="Python.join" />
-        <item itemvalue="Python.exemplo_split" />
-        <item itemvalue="Python.exemplo_40" />
-        <item itemvalue="Python.example_39" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +226,49 @@
       <option name="project" value="LOCAL" />
       <updated>1654837155227</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Atualização">
+      <created>1654913047273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654913047273</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Atualização">
+      <created>1654913827316</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654913827316</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Atualização">
+      <created>1654914427615</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654914427615</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Atualização">
+      <created>1654922110051</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654922110051</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Atualização">
+      <created>1654923086742</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654923086742</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Atualização">
+      <created>1655098316284</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655098316284</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,7 +282,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
