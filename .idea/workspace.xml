@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71bccb30-9577-41a6-80c8-99d78026af08" name="Changes" comment="Atualização">
+    <list default="true" id="71bccb30-9577-41a6-80c8-99d78026af08" name="Changes" comment="Atualização do Curso na Udemy!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Video53/Funcoes_def_Python_p2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Video53/Funcoes_def_Python_p2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,16 +27,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Video37/for_in.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Video38/listas.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Video42/enumerate_tiraduvidas.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="29RezLsk0L67Gw53gCbSsP7ZxBH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,9 +42,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/CÓDIGOS PROGRAMAÇÃO/Python3-LuizOtavioMiranda&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -67,6 +65,7 @@
   <component name="RunManager" selected="Python.Funcoes_def_Python_p2">
     <configuration name="Funcoes_def_Python_p1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3-LuizOtavioMiranda" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -88,6 +87,7 @@
     </configuration>
     <configuration name="Funcoes_def_Python_p2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3-LuizOtavioMiranda" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -109,6 +109,7 @@
     </configuration>
     <configuration name="desafio_contadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3-LuizOtavioMiranda" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -130,6 +131,7 @@
     </configuration>
     <configuration name="desafio_contadores_luiz_otavio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3-LuizOtavioMiranda" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -151,6 +153,7 @@
     </configuration>
     <configuration name="gerando_cpf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3-LuizOtavioMiranda" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -172,13 +175,20 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gerando_cpf" />
+        <item itemvalue="Python.desafio_contadores_luiz_otavio" />
+        <item itemvalue="Python.desafio_contadores" />
         <item itemvalue="Python.Funcoes_def_Python_p2" />
         <item itemvalue="Python.Funcoes_def_Python_p1" />
-        <item itemvalue="Python.gerando_cpf" />
-        <item itemvalue="Python.desafio_contadores" />
-        <item itemvalue="Python.desafio_contadores_luiz_otavio" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -280,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656825700964</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Atualização do Curso na Udemy!">
+      <created>1678670467167</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678670467167</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,6 +330,7 @@
     <MESSAGE value="Teste" />
     <MESSAGE value="Retomando" />
     <MESSAGE value="Atualização" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização" />
+    <MESSAGE value="Atualização do Curso na Udemy!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização do Curso na Udemy!" />
   </component>
 </project>
